@@ -20,6 +20,10 @@ body {
     --primary-color: #000106;
     --secondary-color:#000106;
 }
+#find{
+    height: 40px;
+    width: 50px;
+}
 #geo{
     width: 40px;
     cursor: pointer;
@@ -29,13 +33,13 @@ body {
     cursor: pointer;
 }
 #out{
-    font-size: 9px;
+    font-size: 10px;
 }
 #location{
-    font-size: 15px;
+    font-size: 14px;
 }
 #weather{
-    font-size: 15px;
+    font-size: 24px;
 }
 #coupon{
     height:500px;
